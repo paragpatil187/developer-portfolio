@@ -1,11 +1,11 @@
 export const experienceData = [
-    // {
-    //     id: 1,
-    //     company: 'Globex Corporation',
-    //     jobtitle: 'Frontend Developer',
-    //     startYear: '2018',
-    //     endYear: '2019'
-    // },
+    {
+        id: 1,
+        company: 'Masai school',
+        jobtitle: 'Aspirant web developer',
+        startYear: '2021',
+        endYear: 'present'
+    },
     // {
     //     id: 2,
     //     company: 'Vehement Capital Partners',

@@ -256,36 +256,9 @@ function Contacts() {
                                     <FaMediumM />
                                 </a>
                             )}
-                            {socialsData.blogger && (
-                                <a href={socialsData.blogger} target="_blank" rel="noreferrer" className={classes.socialIcon} >
-                                    <FaBloggerB />
-                                </a>
-                            )}
-                            {socialsData.youtube && (
-                                <a href={socialsData.youtube} target="_blank" rel="noreferrer" className={classes.socialIcon} >
-                                    <FaYoutube />
-                                </a>
-                            )}
-                            {socialsData.reddit && (
-                                <a href={socialsData.reddit} target="_blank" rel="noreferrer" className={classes.socialIcon} >
-                                    <FaRedditAlien />
-                                </a>
-                            )}
-                            {socialsData.stackOverflow && (
-                                <a href={socialsData.stackOverflow} target="_blank" rel="noreferrer" className={classes.socialIcon} >
-                                    <FaStackOverflow />
-                                </a>
-                            )} 
-                            {socialsData.codepen && (
-                                <a href={socialsData.codepen} target="_blank" rel="noreferrer" className={classes.socialIcon} >
-                                    <FaCodepen />
-                                </a>
-                            )}
-                            {socialsData.gitlab && (
-                                <a href={socialsData.gitlab} target="_blank" rel="noreferrer" className={classes.socialIcon} >
-                                    <FaGitlab />
-                                </a>
-                            )}          
+                            
+                            
+                            
                         </div>
                     </div>
                 </div> 
