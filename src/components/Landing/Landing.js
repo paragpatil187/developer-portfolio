@@ -88,7 +88,7 @@ function Landing() {
                             </a>
                         )}
                         {socialsData.medium && (
-                            <a href={socialsData.blogger} target="_blank" rel="noreferrer">
+                            <a href={socialsData.medium} target="_blank" rel="noreferrer">
                                 <FaMedium className="landing--social" style={{color: theme.secondary}}/>
                             </a>
                         )}
