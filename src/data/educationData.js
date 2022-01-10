@@ -8,7 +8,7 @@ export const educationData = [
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
+        institution: 'G M Vedak Institute of technology ,Tala',
         course: 'Bachelor of Engineering(Mechanical)',
         startYear: '2014',
         endYear: '2018'

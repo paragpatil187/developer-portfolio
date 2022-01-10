@@ -8,7 +8,7 @@ import { ThemeContext } from '../../contexts/ThemeContext'
 import { headerData } from '../../data/headerData'
 import { socialsData } from '../../data/socialsData'
 
-import { FaTwitter, FaLinkedin, FaGithub, FaYoutube, FaBlogger } from "react-icons/fa";
+import { FaTwitter, FaLinkedin, FaGithub, FaYoutube, FaMedium } from "react-icons/fa";
 
 
 function Landing() {
@@ -87,9 +87,9 @@ function Landing() {
                                 <FaYoutube className="landing--social" style={{color: theme.secondary}}/>
                             </a>
                         )}
-                        {socialsData.blogger && (
+                        {socialsData.medium && (
                             <a href={socialsData.blogger} target="_blank" rel="noreferrer">
-                                <FaBlogger className="landing--social" style={{color: theme.secondary}}/>
+                                <FaMedium className="landing--social" style={{color: theme.secondary}}/>
                             </a>
                         )}
                     </div>
