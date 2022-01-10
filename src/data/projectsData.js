@@ -6,8 +6,10 @@ import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
-
-
+import nine from '../assets/svg/projects/nine.svg'
+import ten from '../assets/svg/projects/ten.svg'
+import eleven from '../assets/svg/projects/eleven.svg'
+import twelve from '../assets/svg/projects/twelve.svg'
 export const projectsData = [
     {
         id: 1,
@@ -16,7 +18,7 @@ export const projectsData = [
         tags: ['HTML', 'Tailwind CSS', 'MongoDB','Epress'],
         code: 'https://github.com/paragpatil187/upgrad',
         demo: 'https://paragpatil187.github.io/upgrad/html/index.html',
-        image: one
+        image: eleven
     },
     {
         id: 2,
@@ -25,7 +27,7 @@ export const projectsData = [
         tags: ['HTML', 'CSS','JavaScript'],
         code: 'https://github.com/paragpatil187/projectfashionnova',
         demo: 'https://paragpatil187.github.io/projectfashionnova/landingpage.html',
-        image: two
+        image: four
     },
     // {
     //     id: 3,
