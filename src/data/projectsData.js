@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: 'This project aims to  colnning the e-learning web site UpGrad which provides online courses',
         tags: ['HTML', 'Tailwind CSS', 'MongoDB','Epress'],
         code: 'https://github.com/paragpatil187/upgrad',
-        demo: 'https://paragpatil187.github.io/upgrad/html/index.html',
+        demo: 'https://gurdeep7.github.io/upgrad/html/index.html',
         image: one
     },
     {
@@ -24,7 +24,7 @@ export const projectsData = [
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
         tags: ['HTML', 'CSS','JavaScript'],
         code: 'https://github.com/paragpatil187/projectfashionnova',
-        demo: 'https://paragpatil187.github.io/projectfashionnova/landingpage.html',
+        demo: 'https://mehtab39.github.io/projectfashionnova/root/index.html',
         image: two
     },
     // {
