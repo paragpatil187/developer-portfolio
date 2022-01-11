@@ -82,11 +82,7 @@ function Landing() {
                                 <FaTwitter className="landing--social" style={{color: theme.secondary}}/>
                             </a>
                         )}
-                        {socialsData.youtube && (
-                            <a href={socialsData.youtube} target="_blank" rel="noreferrer">
-                                <FaYoutube className="landing--social" style={{color: theme.secondary}}/>
-                            </a>
-                        )}
+                        
                         {socialsData.medium && (
                             <a href={socialsData.medium} target="_blank" rel="noreferrer">
                                 <FaMedium className="landing--social" style={{color: theme.secondary}}/>
