@@ -27,7 +27,7 @@ export const projectsData = [
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
         tags: ['HTML', 'CSS','JavaScript'],
         code: 'https://github.com/paragpatil187/projectfashionnova',
-        demo: 'https://mehtab39.github.io/projectfashionnova/root/index.html',
+        demo: 'https://paragpatil187.github.io/projectfashionnova/root/',
         image: four
 
     },
