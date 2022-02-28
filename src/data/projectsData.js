@@ -24,22 +24,22 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'Clone of Fashionnova',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
+        projectDesc: 'This project is a about clonning of web site FashionNova which provide online shopping',
         tags: ['HTML', 'CSS','JavaScript'],
         code: 'https://github.com/paragpatil187/projectfashionnova',
         demo: 'https://mehtab39.github.io/projectfashionnova/root/index.html',
         image: four
 
     },
-    // {
-    //     id: 3,
-    //     projectName: 'Weather App',
-    //     projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-    //     tags: ['Django', 'CSS', 'Material Ui'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: three
-    // },
+     {
+        id: 3,
+        projectName: 'clone of instagram',
+        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+        tags: ['React Js', 'MongoDB', 'Express'],
+        code: 'https://github.com/paragpatil187/instagram-clone-1',
+        demo: 'https://frontend-dipankar-gitworld.vercel.app/',
+        image: ten
+    },
     // {
     //     id: 4,
     //     projectName: 'Android Patient Tracker',
