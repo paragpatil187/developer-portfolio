@@ -31,8 +31,17 @@ export const projectsData = [
         image: four
 
     },
-     {
+    {
         id: 3,
+        projectName: 'E-commerce website',
+        projectDesc: 'This project is about building e commerce website using react-redux',
+        tags: ['React JS', 'JSON server','REDUX','Material UI'],
+        code: 'https://github.com/paragpatil187/myntraclone',
+        demo: 'https://myntraclone-paragpatil187.vercel.app/',
+        image: three
+    },
+     {
+        id: 4,
         projectName: 'clone of instagram',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['React Js', 'MongoDB', 'Express'],
@@ -40,15 +49,7 @@ export const projectsData = [
         demo: 'https://frontend-dipankar-gitworld.vercel.app/',
         image: ten
     },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
+    
     // {
     //     id: 5,
     //     projectName: 'E-Commerce App',
