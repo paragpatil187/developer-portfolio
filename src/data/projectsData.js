@@ -47,7 +47,7 @@ export const projectsData = [
         tags: ['React', 'CSS'],
         code: 'https://github.com/paragpatil187/weather_app',
         demo: 'https://weatherapp187.netlify.app/',
-        image: five
+        image: one
     },
      {
         id: 5,
