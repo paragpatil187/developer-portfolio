@@ -50,15 +50,15 @@ export const projectsData = [
         image: ten
     },
     
-    // {
-    //     id: 5,
-    //     projectName: 'E-Commerce App',
-    //     projectDesc: 'A Simple E-commerce application',
-    //     tags: ['React Native', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
-    // },
+     {
+        id: 5,
+        projectName: 'Weather App',
+        projectDesc: 'A Simple Weather app for real time data and forecast',
+        tags: ['React', 'CSS'],
+        code: 'https://github.com/paragpatil187/weather_app',
+        demo: 'https://weatherapp187.netlify.app/',
+        image: five
+    },
     // {
     //     id: 6,
     //     projectName: 'Uber Lite',
