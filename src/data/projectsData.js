@@ -42,6 +42,15 @@ export const projectsData = [
     },
      {
         id: 4,
+        projectName: 'Weather App',
+        projectDesc: 'A Simple Weather app for real time data and forecast',
+        tags: ['React', 'CSS'],
+        code: 'https://github.com/paragpatil187/weather_app',
+        demo: 'https://weatherapp187.netlify.app/',
+        image: five
+    },
+     {
+        id: 5,
         projectName: 'clone of instagram',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['React Js', 'MongoDB', 'Express'],
@@ -50,15 +59,7 @@ export const projectsData = [
         image: ten
     },
     
-     {
-        id: 5,
-        projectName: 'Weather App',
-        projectDesc: 'A Simple Weather app for real time data and forecast',
-        tags: ['React', 'CSS'],
-        code: 'https://github.com/paragpatil187/weather_app',
-        demo: 'https://weatherapp187.netlify.app/',
-        image: five
-    },
+    
     // {
     //     id: 6,
     //     projectName: 'Uber Lite',
