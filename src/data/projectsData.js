@@ -49,10 +49,19 @@ export const projectsData = [
         demo: 'https://weatherapp187.netlify.app/',
         image: one
     },
-     {
+    {
         id: 5,
+        projectName: 'Chat App',
+        projectDesc: 'group chat app',
+        tags: ['Firebase','React','Material UI'],
+        code: 'https://github.com/paragpatil187/chat_app',
+        demo: 'https://chat-app-socket187.netlify.app/',
+        image: ten
+    },
+     {
+        id: 6,
         projectName: 'clone of instagram',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+        projectDesc: 'clone of instagram.',
         tags: ['React Js', 'MongoDB', 'Express'],
         code: 'https://github.com/paragpatil187/instagram-clone-1',
         demo: 'https://frontend-dipankar-gitworld.vercel.app/',
@@ -60,15 +69,7 @@ export const projectsData = [
     },
     
     
-    // {
-    //     id: 6,
-    //     projectName: 'Uber Lite',
-    //     projectDesc: 'Uber clone',
-    //     tags: ['Flutter'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: six
-    // },
+    
     // {
     //     id: 7,
     //     projectName: 'Stock Market App',
