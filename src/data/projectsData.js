@@ -58,8 +58,17 @@ export const projectsData = [
         demo: 'https://chat-app-socket187.netlify.app/',
         image: ten
     },
-     {
+    {
         id: 6,
+        projectName: 'Bio-generator app',
+        projectDesc: 'A simple biodata builder app',
+        tags: ['React', 'Google translate'],
+        code: 'https://github.com/paragpatil187/Bio_Generator_App',
+        demo: 'https://biogenerator.netlify.app/',
+        image: seven
+    },
+     {
+        id: 7,
         projectName: 'clone of instagram',
         projectDesc: 'clone of instagram.',
         tags: ['React Js', 'MongoDB', 'Express'],
@@ -70,15 +79,7 @@ export const projectsData = [
     
     
     
-    // {
-    //     id: 7,
-    //     projectName: 'Stock Market App',
-    //     projectDesc: 'A simple stock market API app',
-    //     tags: ['React', 'Redux', 'Bootstrap'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: seven
-    // },
+    
     // {
     //     id: 8,
     //     projectName: 'Car Pooling System',
