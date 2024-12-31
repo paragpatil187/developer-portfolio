@@ -12,11 +12,11 @@ export const servicesData = [
     //     title: 'Marketing',
     //     icon: <BiShoppingBag/>
     // },
-    {
-        id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
-    },
+    // {
+    //     id: 2,
+    //     title: 'Content Writing',
+    //     icon: <BiPencil /> 
+    // },
     // {
     //     id: 3,
     //     title: 'Email Marketing',
@@ -33,16 +33,16 @@ export const servicesData = [
     //     icon: <FaChalkboardTeacher />
     // },
 
-    {
-        id: 6,
-        title: 'Web Design',
-        icon: <BsCodeSlash />
-    },
-    {
-        id: 7,
-        title: 'Web Developing',
-        icon: <FaCameraRetro />
-    },
+    // {
+    //     id: 6,
+    //     title: 'Web Design',
+    //     icon: <BsCodeSlash />
+    // },
+    // {
+    //     id: 7,
+    //     title: 'Web Developing',
+    //     icon: <FaCameraRetro />
+    // },
     // {
     //     id: 8,
     //     title: 'Pinterest Virtual Assistant',

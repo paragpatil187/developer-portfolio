@@ -10,9 +10,56 @@ import nine from '../assets/svg/projects/nine.svg'
 import ten from '../assets/svg/projects/ten.svg'
 import eleven from '../assets/svg/projects/eleven.svg'
 import twelve from '../assets/svg/projects/twelve.svg'
+import swasha from "../assets/png/swasha.png"
+import nirmaan from "../assets/png/nirmaan.png"
+import nirmaanskills from "../assets/png/nirmaanskills.png"
+import shiksha from "../assets/png/shiksha.png"
+
+
+
 export const projectsData = [
     {
         id: 1,
+        projectName: 'Swasha ',
+        projectDesc: 'This project aims to create an e-commerce platform where underprivileged individuals can list and sell their products with minimal platform fees.',
+        tags: ['Next JS', 'Tailwind CSS', 'MongoDB','Express JS','Stripe'],
+        code: '',
+        demo: 'https://swasha.org/',
+        image: swasha
+
+    },
+    {
+        id: 2,
+        projectName: 'Shiksha LMS ',
+        projectDesc: 'This project aims to provide learning platform for womens to learn coding and softskills free',
+        tags: ['Next JS', 'Tailwind CSS', 'MySQL','PHP','SSO','keycloack'],
+        code: '',
+        demo: 'https://shiksha.nirmaan.org',
+        image: shiksha
+
+    },
+    {
+        id: 3,
+        projectName: 'Nirmaan Skills',
+        projectDesc: 'This project aims to provide admin functionality for center managers to efficiently manage data, attendance, batches, and assets. Additionally, it offers a platform for students to learn and develop skills, enhancing both administrative control and educational opportunities.',
+        tags: ['HTML', 'Bootstrap', 'MySQL','PHP'],
+        code: '',
+        demo: 'https://nirmaanskills.org/',
+        image: nirmaanskills
+
+    },
+    {
+        id: 4,
+        projectName: 'Nirmaan website',
+        projectDesc: 'This is official website of organization',
+        tags: ['Next JS', 'Bootstrap', 'MySQL','PHP'],
+        code: '',
+        demo: 'https://nirmaan.org/',
+        image: nirmaan
+
+    },
+    {
+        id: 5,
         projectName: 'Clone of UpGrad ',
         projectDesc: 'This project aims to  colnning the e-learning web site UpGrad which provides online courses',
         tags: ['HTML', 'Tailwind CSS', 'MongoDB','Epress'],
@@ -22,7 +69,7 @@ export const projectsData = [
 
     },
     {
-        id: 2,
+        id: 6,
         projectName: 'Clone of Fashionnova',
         projectDesc: 'This project is a about clonning of web site FashionNova which provide online shopping',
         tags: ['HTML', 'CSS','JavaScript'],
@@ -32,7 +79,7 @@ export const projectsData = [
 
     },
     {
-        id: 3,
+        id: 7,
         projectName: 'E-commerce website',
         projectDesc: 'This project is about building e commerce website using react-redux',
         tags: ['React JS', 'JSON server','REDUX','Material UI'],
@@ -41,7 +88,7 @@ export const projectsData = [
         image: three
     },
      {
-        id: 4,
+        id: 8,
         projectName: 'Weather App',
         projectDesc: 'A Simple Weather app for real time data and forecast',
         tags: ['React', 'CSS'],
@@ -50,7 +97,7 @@ export const projectsData = [
         image: one
     },
     {
-        id: 5,
+        id: 9,
         projectName: 'Chat App',
         projectDesc: 'group chat app',
         tags: ['Firebase','React','Material UI'],
@@ -59,7 +106,7 @@ export const projectsData = [
         image: ten
     },
     {
-        id: 6,
+        id: 10,
         projectName: 'Bio-generator app',
         projectDesc: 'A simple biodata builder app',
         tags: ['React', 'Google translate'],
@@ -68,7 +115,7 @@ export const projectsData = [
         image: seven
     },
      {
-        id: 7,
+        id: 11,
         projectName: 'clone of instagram',
         projectDesc: 'clone of instagram.',
         tags: ['React Js', 'MongoDB', 'Express'],

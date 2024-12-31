@@ -1,18 +1,18 @@
 export const experienceData = [
     {
         id: 1,
+        company: 'Nirmaan Organization',
+        jobtitle: 'Full stack developer',
+        startYear: '2022',
+        endYear: 'present'
+    },
+    {
+        id: 2,
         company: 'Masai school',
         jobtitle: 'Aspirant web developer',
         startYear: '2021',
-        endYear: 'present'
+        endYear: '2022'
     },
-    // {
-    //     id: 2,
-    //     company: 'Vehement Capital Partners',
-    //     jobtitle: 'Backend Developer',
-    //     startYear: '2019',
-    //     endYear: '2020'
-    // },
     // {
     //     id: 3,
     //     company: 'Wonka Industries',
