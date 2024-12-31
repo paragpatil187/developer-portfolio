@@ -18,6 +18,6 @@ export const educationData = [
         institution: 'Masai School, Banglore',
         course: 'Full Stack Web Developement',
         startYear: '2021',
-        endYear: 'Present'
+        endYear: '2022'
     },
 ]
