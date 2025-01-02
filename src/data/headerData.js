@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/fw12_parag_patil_resume.pdf'
+import resume from '../assets/pdf/ParagRaghunathPatil.pdf'
 
 export const headerData = {
     name: 'Parag Patil',
