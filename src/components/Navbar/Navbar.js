@@ -182,19 +182,19 @@ function Navbar() {
                         </Fade>
 
                         <Fade left>
-                            <NavLink to="/#resume" smooth={true} spy="true" duration={2000}>
+                            <NavLink to="/#education" smooth={true} spy="true" duration={2000}>
                                 <div className={classes.drawerItem}>
                                     <HiDocumentText className={classes.drawerIcon}/>
-                                    <span className={classes.drawerLinks}>Resume</span>
+                                    <span className={classes.drawerLinks}>Education</span>
                                 </div>
                             </NavLink>
                         </Fade>
 
                         <Fade left>
-                            <NavLink to="/#services" smooth={true} spy="true" duration={2000}>
+                            <NavLink to="/#projects" smooth={true} spy="true" duration={2000}>
                                 <div className={classes.drawerItem}>
                                     <BsFillGearFill className={classes.drawerIcon}/>
-                                    <span className={classes.drawerLinks}>Services</span>
+                                    <span className={classes.drawerLinks}>Projects</span>
                                 </div>
                             </NavLink>
                         </Fade>
