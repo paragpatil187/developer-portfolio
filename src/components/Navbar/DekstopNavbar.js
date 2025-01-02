@@ -36,11 +36,13 @@ const DesktopNavbar = () => {
             justifyContent: 'space-between',
             alignItems: 'center',
             padding: '0.5rem 2rem',
-            position: 'sticky',
+            position: 'fixed',
             top: 0,
+        
             zIndex: 1000,
             backgroundColor: theme.secondary,
             boxShadow: '0 4px 10px rgba(0, 0, 0, 0.1)',
+            width:'100%'
         },
         navbarBrand: {
             fontSize: '1.8rem',
